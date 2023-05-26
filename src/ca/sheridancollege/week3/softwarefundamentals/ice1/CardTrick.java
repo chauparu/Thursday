@@ -16,10 +16,10 @@ public class CardTrick {
     public static void main(String[] args)
     {
         Card[] magicHand = new Card[7];
-        Card luckyCard = new Card();
+        
         for (int i=0; i<magicHand.length; i++)
         {
-            Card CD = new Card();
+            Card cd = new Card();
             //c.setValue(insert call to random number generator here)
             //c.setSuit(Card.SUITS[insert call to random number between 0-3 here])
         }
